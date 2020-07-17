@@ -14,17 +14,17 @@ It's strongly encouraged that you already have a Twitter Account in order to be 
 
 ![Alt text](./images/app_details2b.png)   
 
-![Alt text](./app_details2.png)
+![Alt text](./images/app_details2.png)
 
 4. Review the developer teams and hit the 'create' button. <br />
-![Alt text](./app_details3.png)
+![Alt text](./images/app_details3.png)
 
 ### I.II Generate Key and Token 
 1. Go to the tab 'Keys and tokens' and generate the access token and access token secret. <br />
-![Alt text](./app_details4.png)
+![Alt text](./images/app_details4.png)
 
 2. Save the tokens by copying it to notepad or other text editors. <br />
-![Alt text](./save_tokens.png)
+![Alt text](./images/save_tokens.png)
 
 3. You're all set!
 
