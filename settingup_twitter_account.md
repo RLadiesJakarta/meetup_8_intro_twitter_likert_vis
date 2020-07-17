@@ -6,10 +6,10 @@ It's strongly encouraged that you already have a Twitter Account in order to be 
 1. Login to [developer.twitter.com](https://developer.twitter.com/en/apps) using your Twitter credentials (user name and password). 
 
 2. Create new app to obtain keys and tokens. 
-![Alt text](./images/create_apps.png width="100")
+![Alt text](./images/create_apps.png width="100px")
 
 3. Fill up all the required fields and hit the 'create' button.  <br />
-![Alt text](./images/app_details1.png)   
+![Alt text](./images/app_details1.png width="100px")   
 
 ![Alt text](./app_details2b.png)   
 
