@@ -23,7 +23,7 @@ It's strongly encouraged that you already have a Twitter Account in order to be 
 1. Go to the tab 'Keys and tokens' and generate the access token and access token secret. <br />
 ![Alt text](./images/app_details4.png)
 
-2. Save the tokens by copying it to notepad or other text editors. <br />
+2. Save the keys from step 1 and tokens from this step to notepad or other text editors. <br />
 ![Alt text](./images/save_tokens.png)
 
 3. You're all set!
