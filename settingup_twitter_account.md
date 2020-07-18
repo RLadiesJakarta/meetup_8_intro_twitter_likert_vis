@@ -37,6 +37,8 @@ install.packages("tidyverse")
 install.packages("igraph")        # for creating network graph
 install.packages("tm")            # for text mining
 install.packages("RColorBrewer")  # for coloring things
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load_gh("trinker/qdapRegex")  # for regex
 ```
 
 
